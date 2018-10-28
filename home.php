@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="home.css" type="text/css">
 <div class="body-content">
   <div class="module">
-    <h1>Register</h1>
+    <h1>Register To The System</h1>
     <form class="form" action="home.php" method="post" enctype="multipart/form-data" autocomplete="off">
       <div class="alert alert-error"></div>
       <input type="text" placeholder="User Name" name="username" required />
